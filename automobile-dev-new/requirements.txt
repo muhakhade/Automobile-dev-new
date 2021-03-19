@@ -13,7 +13,7 @@ django-cas-ng==3.5.9
 django-cors-headers==2.4.0
 django-extensions==2.0.7
 django-simple-sso==0.13.2
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 dotplus==0.3
 graphviz==0.8.4
 gunicorn==19.8.1
